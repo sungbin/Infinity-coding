@@ -14,3 +14,7 @@ https://www.acmicpc.net/problem/1000
     1 2
 ## 예제 출력 1
     3
+# 체크
+#### 김선권 
+#### 임성빈 :white_check_mark:
+#### 이지현
