@@ -12,5 +12,5 @@ https://www.acmicpc.net/problem/1000
 
 ## 예제 입력 1
     1 2
-### 예제 출력 1
+## 예제 출력 1
     3
