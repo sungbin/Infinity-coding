@@ -66,5 +66,5 @@ https://www.acmicpc.net/problem/10828
 
 # 체크
 #### 김선권 
-#### 임성빈 <!-- :white_check_mark: -->
+#### 임성빈  :white_check_mark: 
 #### 이지현
