@@ -46,7 +46,7 @@ https://www.acmicpc.net/problem/10828
 	0
 	3
 
-## 예제 입력 
+## 예제 입력 2
 	7
 	pop
 	top
@@ -56,7 +56,7 @@ https://www.acmicpc.net/problem/10828
 	top
 	pop
 
-## 예제 출력
+## 예제 출력 2
 	-1
 	-1
 	123
